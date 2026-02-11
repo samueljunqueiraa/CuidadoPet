@@ -48,7 +48,11 @@ Interface: Console interativo.
 
 Arquitetura: Modular com separação de responsabilides
 
+---
+
 ## 📁 Estrutura do Projeto
+
+```text
 CuidadoPet/
 ├── bin/
 │   └── main.dart                    # Arquivo principal do sistema
