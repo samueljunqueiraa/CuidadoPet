@@ -49,10 +49,9 @@ Interface: Console interativo.
 Arquitetura: Modular com separação de responsabilides
 
 ---
-
+```
 ## 📁 Estrutura do Projeto
 
-```text
 CuidadoPet/
 ├── bin/
 │   └── main.dart                    # Arquivo principal do sistema
@@ -71,7 +70,7 @@ CuidadoPet/
 │       └── gerador_recibo.dart     # Geração de recibos
 ├── pubspec.yaml                     # Configuração do projeto
 └── README.md                        # Este arquivo
-
+```
 ## 💰 Formas de Pagamento e Descontos
 Forma de Pagamento,Desconto
 💵 Dinheiro,10%
@@ -95,7 +94,9 @@ git clone https://github.com/samueljunqueiraa/CuidadoPet.git
 cd CuidadoPet
 
 ## ▶️ Como Executar
+```
 dart run bin/main.dart
+```
 
 ## 🏗️ Arquitetura e Padrões
 O projeto utiliza Design Patterns (Singleton, Strategy, Factory) e princípios SOLID, demonstrando uma base sólida de engenharia de software aplicável tanto em Dart quanto em Java.
