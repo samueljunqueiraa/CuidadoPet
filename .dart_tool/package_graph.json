@@ -1,0 +1,21 @@
+{
+  "roots": [
+    "cuidadopet"
+  ],
+  "packages": [
+    {
+      "name": "cuidadopet",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": [
+        "lints"
+      ]
+    },
+    {
+      "name": "lints",
+      "version": "2.1.1",
+      "dependencies": []
+    }
+  ],
+  "configVersion": 1
+}

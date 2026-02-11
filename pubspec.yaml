@@ -1,0 +1,9 @@
+name: cuidadopet
+description: Sistema de Auto Atendimento para a loja Cuidapet
+version: 1.0.0
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
